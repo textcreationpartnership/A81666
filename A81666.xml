@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For VVhitsontyds last feast: the present, 1645</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81666</idno>
+            <idno type="STC">Wing D1990</idno>
+            <idno type="STC">ESTC R231949</idno>
+            <idno type="EEBO-CITATION">99900080</idno>
+            <idno type="PROQUEST">99900080</idno>
+            <idno type="VID">133311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2512:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For VVhitsontyds last feast: the present, 1645</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeere 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>DFo copy, reel 2512, is missing pp. 7-10; also, several pages of text have been marked.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133311:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>FOR VVHITSONTYDS LAST <hi>FEAST:</hi> THE PRESENT, 1645.</p>
+            <q>
+               <bibl>ACTS the firſt:</bibl> The ſame <hi>IESUS</hi> ſhall come, in like manner as yee have ſeene him goe, &amp;c.</q>
+            <p>Printed in the Yeere 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133311:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:133311:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>THE LA: ELEA: HER CREED OR <hi>Confeſsion.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">V</seg>Erily as We all</hi> Beleeve <hi>in</hi> GOD, <hi>the ſole</hi> Creator <hi>of all</hi> Things <hi>that were made in the beginning: So</hi> according <hi>to His</hi> promiſe <hi>made alſo; Concerning the</hi> VVomans <hi>SEED,</hi> (<hi>of which the</hi>
+               <pb n="4" facs="tcp:133311:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 10 -->Serpent, forfiture <hi>or on pain of his</hi> head <hi>forewarn'd to beware:</hi>) <hi>do</hi> be<g ref="char:EOLhyphen"/>leeve <hi>in our Lord</hi> JESVS <hi>he the very</hi> GOD: <hi>alone</hi> Redeemer <hi>of the World,</hi> born <hi>of the <g ref="char:V">Ʋ</g>IRGIN, which Concerved by the Holy Ghoſt, our only</hi> Sanctifier.</p>
+            <p>
+               <hi>Who</hi> after <hi>he had finiſhed, on the ſixt day the</hi> worke <hi>of</hi> Our <hi>Redemp<g ref="char:EOLhyphen"/>tion, and</hi> reſted <hi>the ſeaventh,</hi> roſe <hi>a<g ref="char:EOLhyphen"/>gaine; And was by the ſpace of ſix weekes ſeene, whoſe laſt Commande<g ref="char:EOLhyphen"/>ment was to waite for his</hi> Fathers promiſe, <hi>of the Holy Ghoſts com<g ref="char:EOLhyphen"/>ming in whom</hi> VVee <hi>alſo beleeve.</hi>
+            </p>
+            <p>
+               <hi>Wherfore of beleife not ſlowe: in
+<pb n="5" facs="tcp:133311:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 10 -->thoſe Things</hi> written <hi>by the</hi> Pro<g ref="char:EOLhyphen"/>phets <hi>and</hi> Apoſtles, <hi>doe for mine owne part Confeſſe, how incredible ſo<g ref="char:EOLhyphen"/>ever it ſeemes to</hi> Others, <hi>I farther beleeve the ſecond Comming of the ho<g ref="char:EOLhyphen"/>ly Ghoſt, imediately before the day of Iudgement</hi> according <hi>to that ſpoken by the</hi> Prophet IOEL, <hi>ſaying:</hi> GOD <hi>ſaith,</hi> afterward it ſhall come to paſſe, I will powre out my Spirit upon all fleſh, before the great and terrible Day <hi>of</hi> the LORD: <hi>Namely, on the Gentiles, their</hi> Sonnes <hi>and</hi> Daugh<g ref="char:EOLhyphen"/>ters <hi>likewiſe:</hi> And I will ſhew VVonders in the Heaven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (<hi>be<g ref="char:EOLhyphen"/>ſide a New</hi> Star, <hi>not long</hi> ſince <hi>ſignes</hi> never <hi>known</hi>) more frequent and
+<pb n="6" facs="tcp:133311:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->the Earth <hi>Blood, and Fire, and pillars of Smoake, &amp;c. W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſſe ſuch</hi> warr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Chriſtian world.</p>
+            <p>
+               <hi>Of which laſt dayes, give <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>E leave to ſay<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Grace <hi>and</hi> Giftes <hi>of LEARNING, how Rich ſo<g ref="char:EOLhyphen"/>ever They</hi> eſteeme <hi>themſelves The</hi> Gentiles <hi>nevertheleſse of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Com<g ref="char:EOLhyphen"/>forte <hi>more need had</hi> Never, <hi>how much ſoever preſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> upon their</hi> Ho<g ref="char:EOLhyphen"/>lineſſe: <hi>Suppoſing like the</hi> Iewes <hi>a</hi> Saviour <hi>for them unneceſſary, which held themſelves</hi> ſo juſt: <hi>And ſo</hi> be<g ref="char:EOLhyphen"/>cauſe. <hi>Chriſtian</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cleanſed; <hi>likewiſe no more need</hi>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ding: <hi>Thus all co<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ded under</hi> un<g ref="char:EOLhyphen"/>beleif, &amp; <hi>fearfull</hi> blindnes, <hi>unmindfull</hi> 
+               <gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:133311:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->agreeable to the preſent diviſion, and as both agreeing in one, ſtiled by the Prophet <hi>Daniel,</hi> a time and times and the deviding of time, whoſe <hi>Commiſsion</hi> to continue ſo long: And then he whoſoever ſhall oppoſe it never ſo great: as here he ſtiled the <hi>God</hi> of the earth no leſſe theſe two as freely to pro<g ref="char:EOLhyphen"/>claime open warre ſo often as they pleaſe, to ſmite the <hi>Earth</hi> or <hi>Land</hi> with <hi>Peſtilence and ſuch Judgments, for which</hi> Vials <hi>of wrath</hi> directed to the preſent <hi>Century,</hi> ſo much ſuffices: and how they were re<g ref="char:EOLhyphen"/>warded, their Sackcloth chan<g ref="char:EOLhyphen"/>ged into a glorious cloud, and their Foes ſo much tormented with their teſtimo<g ref="char:EOLhyphen"/>ny, <hi>how at the ſame time ſuch an Earthquak the City fal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing upon them,</hi> except a Rem<g ref="char:EOLhyphen"/>nant
+<pb n="12" facs="tcp:133311:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->which upon Repentance eſcap'd.</p>
+            <p>And all theſe but ſpeaking one thing in ſeverall <hi>Languages</hi> (to wit) <hi>the Reſur<g ref="char:EOLhyphen"/>rections loud voice,</hi> and that of the Aſcen<g ref="char:EOLhyphen"/>tion: as <hi>aſcendite huc</hi> added to thoſe Pro<g ref="char:EOLhyphen"/>pheticall ſirie tongues of theire or fire proceeding out of their mouths, if any will harme them ſuffices for the inſuing feaſt alſo, when fully come or finiſhed wherefore with the 24. Elders that great Coudcell or States ſitting upon their ſeats for ever with one conſent and voice: Let great <hi>Brittame</hi> ſay. <hi>Wee give thee thrice humble thankes O eternall Trenity, which art, and waſt, and art to come,</hi> becauſe thou haſt taken to thee thy great power and haſt reigned.</p>
+            <p>And I beleeve <hi>laſtly,</hi> though a <hi>Miſtery</hi> none of <hi>leſt:</hi> Like the <hi>grace</hi> of <hi>God beſtowed upon the</hi> Gen<g ref="char:EOLhyphen"/>tiles, <hi>held as imposſible</hi> a point with
+<pb n="13" facs="tcp:133311:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->the <hi>Apoſtles: That after the laſt</hi> Period <hi>expir'd, ther <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a</hi> Releaſe <hi>out of</hi> HELL, <hi>Redemption for all the</hi> DAMNED, <hi>Although granted that</hi> ſentence <hi>Jre<g ref="char:EOLhyphen"/>vocable,</hi> Goe yee Curſed, &amp;c.</p>
+            <p>
+               <hi>And the unpardonable ſinne, not in this</hi> world <hi>nor that to come forgiven: And the fire</hi> unextinguiſhed, <hi>yet proves their</hi> ſufferings <hi>not of like</hi> nature <hi>and conditi<g ref="char:EOLhyphen"/>on: Notwithſtanding in danger,</hi> (were <hi>God</hi> extreame) <hi>of endleſſe torment: Therefore if</hi> Salt <hi>wh<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch</hi> preſerves <hi>be good, the fire alſo neceſſary like thoſe bet<g ref="char:EOLhyphen"/>ter to enter maim'd into</hi> Heaven <hi>then o<g ref="char:EOLhyphen"/>therwiſe goe into fire</hi> unquenchable <hi>which goes not out, to our dayes without doubt</hi> directed (<hi>Marke the</hi> 9. <hi>where ſo often repeated th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe words concluded,</hi> have peace in your ſelves.</p>
+            <pb n="14" facs="tcp:133311:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>
+               <hi>And therefore before that</hi> Parable <hi>where mentioned the</hi> gulfe <hi>or fixed ſpace, no other then a</hi> prefixed ſpace <hi>of time.</hi> (<hi>Luke</hi> 15.) <hi>That</hi> Elders expoſtulating <hi>reproves like</hi> unnaturallneſſe <hi>in others without compaſsion of thoſe undergoing the ſecond death in the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt</hi> Sonne <hi>inſtanc'd the ſecond</hi> Brother <hi>as thoſe words,</hi> ſay<g ref="char:EOLhyphen"/>ing: It was meet, &amp;c. For this thy Brother was dead, and is alive again, was loſt, and is found.</p>
+            <p>
+               <hi>Approving of that</hi> Principle of e<g ref="char:EOLhyphen"/>very thing in the end, goes to its pro<g ref="char:EOLhyphen"/>per place from whence it came to re<g ref="char:EOLhyphen"/>turne.</p>
+            <p>
+               <hi>And moreover againe for the</hi> Bot<g ref="char:EOLhyphen"/>tomleſſe pit <hi>opend (Revela.) Hells</hi> E<g ref="char:EOLhyphen"/>pitomie
+<pb n="15" facs="tcp:133311:6"/>
+               <!-- PDF PAGE 13 -->
+               <hi>and their King over them.</hi> where they not having the Seale of God in their foreheads <hi>(ſome name gi<g ref="char:EOLhyphen"/>ven as it were)</hi> Theſe not killed ſeeking death fleeing from them: <hi>ſhuning ſo many months impriſonment: As priſons never ſo fild as in theſe dayes:</hi> Shall not need to add what yeare of God ſeald with, &amp;c. where ſuch innumerable Horſ-men diſcribed to the life.</p>
+            <p>
+               <hi>And thus having canſel'd Purgatories numberleſse</hi> paſſes <hi>and pardons that take upon them to deliver others, and cannot out of ſuch utter ſpirituall Darkneſſe free themſelves derived from:</hi> Thou ſhalt not come forth thence <hi>untill paid the utmoſt mite. And hee without commiſſe<g ref="char:EOLhyphen"/>ration of his fellow</hi> ſervant ſerved with
+<pb n="16" facs="tcp:133311:7"/>
+               <!-- PDF PAGE 14 -->the like <hi>MEAS<g ref="char:V">Ʋ</g>RE.</hi>
+            </p>
+            <p>Take to your comfort thoſe armes <hi>diſplay'd, as ſaid to the one, this day</hi> Thou <hi>ſhalt be with</hi> ME, <hi>&amp;c.</hi> So inferrs a<g ref="char:EOLhyphen"/>nother day for the Other: And therefore, as the Lord lives that ſha'l rayſe us from the duſt of death <hi>ſo</hi> the Lord lives <hi>(let us ſay) that brings up out of the Jawes of</hi> HELL <hi>backe to Paradice.</hi>
+            </p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
